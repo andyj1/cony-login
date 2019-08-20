@@ -1,4 +1,4 @@
-> ### cony-login
+> ## cony-login
 - A responsive login form with character gestures
 - HTML/CSS, SVG, JavaScript
 
@@ -21,6 +21,9 @@
 > (for more details, refer to Mozilla Developer Network
 > https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Basic_Shapes)
 
+> LINE Friends: [Official Website]
+
+[Official Website]: https://www.linefriends.com/
 
 ![1](img/1.PNG) ![2](img/2.PNG) ![3](img/3.PNG) ![4](img/4.PNG) ![5](img/5.PNG)
 > 1) Initial 
