@@ -31,3 +31,7 @@
 > 3) Character follows through the cursor
 > 4) Character purposely looking away (up) from the password field
 > 5) Looped motion
+
+
+> Original Character Icon <br/>
+![Original](cony.png)
